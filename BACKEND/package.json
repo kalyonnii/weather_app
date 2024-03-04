@@ -1,4 +1,10 @@
 {
+
+  "scripts": {
+    "test": "bcb",
+    "start":"node server.js",
+    "serv":"nodemon server.js"
+  },
   "dependencies": {
     "axios": "^1.6.7",
     "cors": "^2.8.5",
